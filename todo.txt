@@ -1,0 +1,4 @@
+* List of schools we are serving
+* List of books each school has and search feature
+* Create api
+* Create backend
